@@ -1,1 +1,0 @@
-import{f as a,o as s,c as t,a as o,r as n,b as r,i as c,aa as l,ab as f}from"./entry.221ab5ec.js";const _={class:"font-sans"},p=a({__name:"default",setup(d){return(e,m)=>(s(),t(f,null,[o("main",_,[n(e.$slots,"default")]),r(c(l))],64))}});export{p as default};
