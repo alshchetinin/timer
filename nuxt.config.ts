@@ -7,7 +7,9 @@ export default defineNuxtConfig({
       language: 'ru',
     },
   },
-
+  app: {
+    baseURL: '/prod/',
+  },
   modules: [
     '@nuxtjs/tailwindcss',
     '@pinia/nuxt',
