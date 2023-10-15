@@ -8,7 +8,7 @@ export default defineNuxtConfig({
     },
   },
   app: {
-    baseURL: '/prod/',
+    baseURL: '/timer/',
   },
   modules: [
     '@nuxtjs/tailwindcss',
